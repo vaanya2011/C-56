@@ -1,0 +1,13 @@
+img{
+    width: 20%;
+    border: ridge;
+    border-width: 10px;
+}
+h1{
+    color: purple;
+    font-family:'Courier New', Courier, monospace;
+}
+body{
+    text-align: center;
+    background-color: pink;
+}
